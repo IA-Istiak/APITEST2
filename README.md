@@ -31,4 +31,14 @@ It is a practice API Test Project .<br> Here I used 7 differnet API and test the
 <br>
 
 --- 
+# SUMMARY
+
+| SUMMARY ITEM| TOTAL| FAILED |
+|-------------|-------|-------|
+|Requests|7|0|
+|Prerequest Scripts|5|0|
+|Test Scripts|7|0|
+|Assertions|25|0|
+|Skipped Tests|0||
+
 
